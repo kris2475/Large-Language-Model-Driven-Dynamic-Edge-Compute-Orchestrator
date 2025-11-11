@@ -40,7 +40,7 @@ LLM-DECO is structured as a **hierarchical control system** with three cooperati
 ### 1. 🧠 The Commander *(LLM Layer)*  
 **Role:** Strategic Planner  
 - Receives mission goals and full network telemetry (battery levels, light intensity, RF noise).  
-- Generates an **objective function** and **constraints** for the optimizer.  
+- Generates an **objective function** and **constraints** for the optimiser.  
 - Produces a **deterministic JSON command** (e.g., `"Wake Node 4", "Set policy to low-power"`).
 
 ### 2. 🔬 The Optimiser *(Bayesian Optimisation)*  
@@ -56,7 +56,7 @@ LLM-DECO is structured as a **hierarchical control system** with three cooperati
 **Edge Node (Slave):**  
 - Wakes on demand.  
 - Loads updated sensing or transmission policies.  
-- Executes optimized tasks (e.g., BME680 sampling).  
+- Executes optimised tasks (e.g., BME680 sampling).  
 - Transmits data and returns to deep sleep.
 
 ---
@@ -64,7 +64,7 @@ LLM-DECO is structured as a **hierarchical control system** with three cooperati
 ## 🧪 Simulation Environment  
 
 LLM-DECO includes (or recommends) a **Python-based Digital Twin Simulator** for safe, rapid testing.  
-This simulator models **thermal, power, and network dynamics**, enabling realistic evaluation of LLM reasoning and optimization without hardware risk.
+This simulator models **thermal, power, and network dynamics**, enabling realistic evaluation of LLM reasoning and optimi0sation without hardware risk.
 
 | Component | Technology | Role |
 |------------|-------------|------|
