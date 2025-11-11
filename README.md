@@ -1,11 +1,11 @@
-# 🧠 LLM-DECO: Large Language Model-Driven Dynamic Edge Compute Orchestrator  
+# 🧠 LLM-Driven Dynamic Workload Orchestrator (LLM-DDWO)
 *A Context-Aware, Self-Tuning IoT Network for Sustainable Edge Computing*
 
 ---
 
 ## 🌟 Overview  
 
-**LLM-DECO** (Large Language Model-Driven Dynamic Edge Compute Orchestrator) introduces a genuinely intelligent and adaptive AI management layer for constrained **Internet of Things (IoT)** networks.  
+**LLM-DDWO** (LLM-Driven Dynamic Workload Orchestrator) introduces a genuinely intelligent and adaptive AI management layer for constrained **Internet of Things (IoT)** networks.  
 
 Instead of relying on static or reactive logic, LLM-DECO transforms a distributed network of low-power sensors into a **coordinated, goal-oriented system** that intelligently manages its own energy and compute resources.
 
