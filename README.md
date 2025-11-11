@@ -80,7 +80,7 @@ This simulator models **thermal, power, and network dynamics**, enabling realist
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone [repository-link]
-cd LLM-DECO
+cd LLM-DDWO
 ```
 
 ### 2️⃣ Configure the Simulation  
