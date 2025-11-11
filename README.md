@@ -21,14 +21,14 @@ Transforms natural-language mission objectives (e.g.,
 into **precise, executable system policies**.
 
 ### ⚡ Strategic Wake-Up  
-Builds on the *Wake-on-Energy-Sensors* paradigm. The LLM instructs the **Control Hub** on which node(s) to wake, when to wake them, and which optimized policy to run — **minimizing energy waste while maintaining mission objectives**.
+Builds on the *Wake-on-Energy-Sensors* paradigm. The LLM instructs the **Control Hub** on which node(s) to wake, when to wake them, and which optimised policy to run — **minimising energy waste while maintaining mission objectives**.
 
 ---
 
 ## 🚀 Key Innovations  
 
 - **Strategic Planning** — The LLM balances contradictory human objectives and hardware constraints with contextual reasoning.  
-- **Hybrid Optimization** — Combines LLM strategic reasoning with **Bayesian Optimization (BO)** for fine-grained numerical tuning.  
+- **Hybrid Optimisation** — Combines LLM strategic reasoning with **Bayesian Optimisation (BO)** for fine-grained numerical tuning.  
 - **Proactive Energy Management** — Schedules tasks dynamically based on real-time or predicted **energy harvesting opportunities** (e.g., solar input).
 
 ---
