@@ -43,7 +43,7 @@ LLM-DECO is structured as a **hierarchical control system** with three cooperati
 - Generates an **objective function** and **constraints** for the optimizer.  
 - Produces a **deterministic JSON command** (e.g., `"Wake Node 4", "Set policy to low-power"`).
 
-### 2. 🔬 The Optimizer *(Bayesian Optimization)*  
+### 2. 🔬 The Optimiser *(Bayesian Optimisation)*  
 **Role:** Efficiency Engineer  
 - Implements probabilistic optimization to search complex parameter spaces (e.g., sampling frequency vs. energy use).  
 - Returns optimal numerical settings that satisfy the LLM-defined goals.
