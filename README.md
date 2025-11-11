@@ -7,9 +7,9 @@
 
 **LLM-DDWO** (LLM-Driven Dynamic Workload Orchestrator) introduces a genuinely intelligent and adaptive AI management layer for constrained **Internet of Things (IoT)** networks.  
 
-Instead of relying on static or reactive logic, LLM-DECO transforms a distributed network of low-power sensors into a **coordinated, goal-oriented system** that intelligently manages its own energy and compute resources.
+Instead of relying on static or reactive logic, LLM-DDWO transforms a distributed network of low-power sensors into a **coordinated, goal-oriented system** that intelligently manages its own energy and compute resources.
 
-At its core, **Dynamic Edge Compute Orchestration (DECO)** is about intelligent, autonomous management of distributed compute and power resources — guided by the reasoning power of an LLM.
+At its core, **Dynamic Workload Orchestrator (DDWO)** is about intelligent, autonomous management of distributed compute and power resources — guided by the reasoning power of an LLM.
 
 ---
 
