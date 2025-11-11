@@ -139,10 +139,8 @@ You may obtain a copy of the License at:
 
 ---
 
-## 👥 Contributors  
-- **Lead Architect:** [Your Name]  
-- **Research & Optimization:** [Team Member]  
-- **Hardware Integration:** [Team Member]  
+## 👥 Author
+K Seunarine
 
 ---
 
